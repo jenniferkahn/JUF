@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.discoveries-show-header-subtitle {
+	align-content: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	
+}
+.form-control{
+
+	border: 3px solid aquamarine;
+	height: 50px;
+	width: 400px;
+ 
+}
+.discoveries-show-place-meta-name {
+		font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
